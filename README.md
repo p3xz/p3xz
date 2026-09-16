@@ -16,14 +16,11 @@
 <a href="https://github.com/namish-yadav" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/namish-yadav" target="_blank">
+<a href="linkedin.com/in/namish-yadav-639769408/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:namish.yadav@example.com" target="_blank">
+<a href="mailto:namishyadavv@gmail.com.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/namish-yadav" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
