@@ -13,14 +13,17 @@
 
 <br/>
 
-<a href="namishhh.vercel.app" target="_blank">
+<a href="https://namishhh.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
-<a href="linkedin.com/in/namish-yadav-639769408/" target="_blank">
+<a href="https://linkedin.com/in/namish-yadav-639769408" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:namishyadavv@gmail.com.com" target="_blank">
+<a href="mailto:namishyadavv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/namish-yadav" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -170,16 +173,28 @@ Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned 
 
 ## Experience
 
-**Software Engineering Intern — `Your Company Name`**
-`Month Year – Present`
+**Team Lead — TrustLink (Smart India Hackathon 2026)**
+`2026 — Present`
 
-Contributing to full-stack feature development in a production environment, working across frontend and backend systems to ship user-facing functionality.
+Leading a six-member engineering team (PhoenixFu) building a verified alumni engagement platform for SIH 2026, problem statement SIH25017 — from architecture decisions through team coordination.
 
-- Built and maintained React/TypeScript components integrated with backend services
-- Collaborated with cross-functional teams on feature scoping and delivery
-- Participated in code review and documentation practices
+- Directed problem-statement selection and technical strategy for the team
+- Architected the verification layer: registration-number cross-checks + LinkedIn/GitHub OAuth
+- Coordinated a multi-stack build across React, Flutter, Node.js, and PostgreSQL/Redis
+- Delegated and reviewed work across five teammates through the internal prelim cycle
 
-`React` `TypeScript` `Node.js` `Git`
+`React` `Node.js` `PostgreSQL` `Team Leadership`
+
+**Independent Developer — Personal Projects**
+`Ongoing`
+
+Building and shipping complete solo projects end-to-end, from frontend to docs, outside of coursework.
+
+- Shipped Infernified, a client-side password security analyzer, with full supporting docs
+- Built a Java/Discord bot (KillCounterBot) on JDA with a Maven-based pipeline
+- Designed and built a personal portfolio site in React/TypeScript
+
+`React` `TypeScript` `Java` `JavaScript`
 
 ---
 
@@ -196,34 +211,11 @@ Contributing to full-stack feature development in a production environment, work
 
 ---
 
-## Certifications
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-6A0DAD?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Foundations-8A2BE2?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-A78BFA?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking%20Basics-4B0082?style=flat-square&logo=cisco&logoColor=white)
-
----
-
 ## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/namish-yadav)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://geeksforgeeks.org/user/namish-yadav)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://hackerrank.com/namish-yadav)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/namish-yadav)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/namishyadav/)
 
 </div>
 
@@ -278,7 +270,7 @@ Contributing to full-stack feature development in a production environment, work
 current:
   learning:
     - Advanced NLP and applied AI system design
-    - Cloud-native architecture patterns (AWS)
+    - Cloud-native architecture patterns
     - Docker and containerized development workflows
   building:
     - TrustLink — verified alumni engagement platform (SIH 2026)
@@ -298,10 +290,10 @@ current:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namish.yadav@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav)
+[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishyadavv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav-639769408)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namish-yadav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/namish-yadav/first-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://namishhh.vercel.app)
 
 </div>
 
