@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Exploring+AI+%2F+ML+and+applied+NLP;Engineering+products+that+ship;Open+to+SWE+%2F+AI+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Shipping+clean%2C+production-ready+code;Open+to+SWE+internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,15 +22,15 @@
 <a href="mailto:namishyadavv@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/namish-yadav" target="_blank">
+<a href="https://github.com/p3xz" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=namish-yadav&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/namish-yadav?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/namish-yadav?style=flat-square&color=A78BFA&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=p3xz&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/p3xz?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/p3xz?style=flat-square&color=A78BFA&label=STARS&logo=github)
 
 </div>
 
@@ -38,16 +38,15 @@
 
 ## About Me
 
-I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building production-grade full-stack systems and exploring the intersection of software engineering and applied AI. My work spans **React/TypeScript front ends**, **Node.js backends**, and increasingly **AI/ML-driven features** — from NLP-based verification pipelines to local LLM tooling for developer workflows.
+I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building production-grade full-stack systems. My work spans **React/TypeScript front ends**, **Node.js backends**, and end-to-end product delivery — from verification pipelines to developer tooling.
 
-I approach engineering with a product mindset: shipping complete, end-to-end experiences rather than isolated components — covering UI, backend architecture, security, and documentation in the same breath. I favor rapid, AI-assisted prototyping paired with a solid grounding in core web fundamentals, which lets me move fast without losing rigor.
+I approach engineering with a product mindset: shipping complete, end-to-end experiences rather than isolated components — covering UI, backend architecture, security, and documentation in the same breath. I favor rapid, iterative prototyping paired with a solid grounding in core web fundamentals, which lets me move fast without losing rigor.
 
 **Currently open to:**
 
 - Software Engineering Internships (Full Stack / Frontend)
-- AI/ML Engineering opportunities
 - Open-source collaboration
-- Hackathons and applied research projects
+- Hackathons and applied engineering projects
 
 ---
 
@@ -68,22 +67,6 @@ I approach engineering with a product mindset: shipping complete, end-to-end exp
 **Cloud, DevOps & Tooling**
 
 ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Maven](https://skillicons.dev/icons?i=maven)
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Natural Language Processing | ⭐⭐⭐⭐☆ | spaCy-based text verification and matching pipelines |
-| Local LLM Tooling | ⭐⭐⭐☆☆ | Ollama + Qwen2.5-Coder for on-device coding assistance |
-| AI-Assisted Engineering | ⭐⭐⭐⭐⭐ | Rapid, AI-augmented prototyping across the full stack |
-| Applied Sensing / CSI | ⭐⭐⭐☆☆ | WiFi CSI-based pose detection experimentation |
-| Data-Driven Verification Systems | ⭐⭐⭐⭐☆ | Registration-based cross-verification with OAuth trust layers |
-
-</div>
 
 ---
 
@@ -123,7 +106,7 @@ A fully client-side password strength and security analysis tool, built as a cyb
 | **Performance** | Real-time in-browser analysis, no network round trips |
 | **Security** | 100% client-side processing — no password ever leaves the browser |
 | **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/namish-yadav](https://github.com/namish-yadav) |
+| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
 
 Shipped as a full package rather than a demo: includes a dedicated privacy policy page, custom favicon and Open Graph assets generated via Python, and an instructor-facing technical notes document.
 
@@ -143,7 +126,7 @@ A Discord bot built on the JDA framework for tracking in-game kill statistics, b
 | **Performance** | Lightweight embedded SQLite store, low-overhead runtime |
 | **Security** | Local data persistence with no external data exposure |
 | **Impact** | Core setup and build pipeline complete; feature phase in progress |
-| **Repository** | [github.com/namish-yadav](https://github.com/namish-yadav) |
+| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
 
 Set up the full Maven-based Java build pipeline from scratch, resolving toolchain issues along the way, with the bot's command and statistics-tracking layer under active development.
 
@@ -163,7 +146,7 @@ A dark, minimalist personal portfolio built in React and TypeScript with a custo
 | **Performance** | Tuned canvas-based FloatingLines background animation |
 | **Security** | Client-side contact form with input handling |
 | **Impact** | Live personal branding and project showcase |
-| **Repository** | [github.com/namish-yadav/first-portfolio](https://github.com/namish-yadav/first-portfolio) |
+| **Repository** | [github.com/p3xz/first-portfolio](https://github.com/p3xz/first-portfolio) |
 
 Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned generative background, footer social integration, and a functional contact form UI.
 
@@ -225,10 +208,10 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namish-yadav&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namish-yadav&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=p3xz&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namish-yadav&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3xz&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
 
 </div>
 
@@ -238,7 +221,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=namish-yadav&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=p3xz&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -248,7 +231,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namish-yadav&theme=redical&bg_color=0D0221&color=A78BFA&line=8A2BE2&point=E0D7FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=p3xz&theme=redical&bg_color=0D0221&color=A78BFA&line=8A2BE2&point=E0D7FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -258,7 +241,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/namish-yadav/namish-yadav/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/p3xz/p3xz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -269,18 +252,15 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 ```yaml
 current:
   learning:
-    - Advanced NLP and applied AI system design
     - Cloud-native architecture patterns
     - Docker and containerized development workflows
   building:
     - TrustLink — verified alumni engagement platform (SIH 2026)
     - Personal portfolio and developer brand
   exploring:
-    - Local LLM tooling (Ollama, Qwen2.5-Coder)
     - WiFi CSI-based sensing and pose detection
   open_to:
     - Software Engineering Internships
-    - AI/ML collaboration and research
     - Open-source contribution
 ```
 
@@ -292,7 +272,7 @@ current:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishyadavv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav-639769408)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namish-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p3xz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://namishhh.vercel.app)
 
 </div>
