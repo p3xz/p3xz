@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/namish-yadav" target="_blank">
+<a href="namishhh.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 <a href="linkedin.com/in/namish-yadav-639769408/" target="_blank">
