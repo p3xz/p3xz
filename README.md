@@ -206,10 +206,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=p3xz&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3xz&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
+<img src="https://streak-stats.demolab.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="60%"/>
 
 </div>
 
