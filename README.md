@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Shipping+clean%2C+production-ready+code;Open+to+SWE+internships" alt="Typing SVG" />
 </a>
 
@@ -146,7 +146,7 @@ A dark, minimalist personal portfolio built in React and TypeScript with a custo
 | **Performance** | Tuned canvas-based FloatingLines background animation |
 | **Security** | Client-side contact form with input handling |
 | **Impact** | Live personal branding and project showcase |
-| **Repository** | [github.com/p3xz/first-portfolio](https://github.com/p3xz/first-portfolio) |
+| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
 
 Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned generative background, footer social integration, and a functional contact form UI.
 
@@ -183,14 +183,10 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 ## Achievements
 
-<div align="center">
-
 | Recognition | Details |
 |---|---|
 | Smart India Hackathon 2026 — Internal Prelims | Team lead, PhoenixFu — problem statement SIH25017 |
 | Academic Standing | BCA, Kristu Jayanti University, Bengaluru |
-
-</div>
 
 ---
 
@@ -198,7 +194,9 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/namishyadav/)
+<a href="https://leetcode.com/u/namishyadav/">
+  <img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode" />
+</a>
 
 </div>
 
@@ -209,7 +207,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=p3xz&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E0D7FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3xz&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="50%"/>
 
@@ -217,28 +215,8 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=p3xz&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=p3xz&theme=redical&bg_color=0D0221&color=A78BFA&line=8A2BE2&point=E0D7FF&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
+<!-- Contribution snake: re-enable after adding the Platane/snk workflow.
+     It generates the SVG on the `output` branch that the <img> below needs.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/p3xz/p3xz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -246,6 +224,7 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 </div>
 
 ---
+-->
 
 ## Current Focus
 
@@ -270,10 +249,18 @@ current:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishyadavv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-yadav-639769408)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p3xz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://namishhh.vercel.app)
+<a href="mailto:namishyadavv@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/namish-yadav-639769408">
+  <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/p3xz">
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://namishhh.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -281,7 +268,7 @@ current:
 
 <div align="center">
 
-*"Build the thing completely, or don't build it at all."*
+<em>"Build the thing completely, or don't build it at all."</em>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
