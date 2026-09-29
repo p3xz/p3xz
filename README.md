@@ -190,6 +190,19 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 ---
 
+## Certifications
+
+**Digital Engineering — FutureSkills Prime (Nasscom)**
+`Sep 2026`
+
+Gold category, 80/100, with a perfect 19/19 on one of five modules. Covers edge computing, Internet of Things, artificial intelligence, machine learning, cybersecurity, and big data.
+
+Credential ID: `FSP/2026/9/10411158`
+
+`Edge Computing` `IoT` `Artificial Intelligence` `Machine Learning` `Cybersecurity` `Big Data`
+
+---
+
 ## Coding Profiles
 
 <div align="center">
