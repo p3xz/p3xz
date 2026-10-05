@@ -240,16 +240,6 @@ Credential ID: `FSP/2026/9/10411158`
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=p3xz&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=E0D7FF" width="60%"/>
-
-</div>
-
----
-
 <!-- Contribution snake: re-enable after adding the Platane/snk workflow.
      It generates the SVG on the `output` branch that the <img> below needs.
 <div align="center">
