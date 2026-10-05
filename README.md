@@ -151,25 +151,6 @@ Built solo: custom keyboard rendering, per-key timing, and slowest/most-missed k
 </details>
 
 <details>
-<summary><b>DESI VISION — Satirical Desi Object Detection Party Game</b></summary>
-
-<br/>
-
-A camera-based party game that detects everyday desi objects with a satirical twist: screen shake, particle bursts, and over-the-top commentary.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript, TensorFlow.js |
-| **Scale** | Real-time browser object detection game |
-| **Performance** | In-browser ML inference, respects prefers-reduced-motion |
-| **Impact** | Live at desi-vision.vercel.app |
-| **Repository** | [github.com/p3xz/desi-vision](https://github.com/p3xz/desi-vision) |
-
-Built solo: TF.js model integration, game-feel effects, and accessibility-aware motion.
-
-</details>
-
-<details>
 <summary><b>Infernified — Client-Side Password Security Analyzer</b></summary>
 
 <br/>
@@ -200,7 +181,7 @@ Designing and shipping complete products solo, from architecture to deployment.
 
 - Building InsidCode, a coding platform with live 1v1 duels, server-side test evaluation, and matchmaking
 - Building Rideoxy, a privacy-first offline motorcycle ride tracker with background GPS and on-device storage
-- Shipping supporting projects end to end: NamishOS, MINCRATYPE, DESI VISION
+- Shipping supporting projects end to end: NamishOS, MINCRATYPE
 
 `Next.js` `TypeScript` `React Native` `MongoDB` `SQLite`
 
