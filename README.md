@@ -73,27 +73,104 @@ I approach engineering with a product mindset: shipping complete, end-to-end exp
 ## Featured Projects
 
 <details>
-<summary><b>🔗 TrustLink — Verified Alumni Engagement Platform</b></summary>
+<summary><b>InsidCode — Coding Platform with Live 1v1 Duels</b></summary>
 
 <br/>
 
-A verified alumni engagement platform built for Smart India Hackathon 2026 (problem statement SIH25017), enabling trusted alumni–student connections through registration-number cross-verification and OAuth-based identity checks.
+A full coding practice platform with live 1v1 coding duels: two players solve the same problem against the clock while the server runs hidden tests and scores the round.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | React, Flutter, Node.js, Express, PostgreSQL, Redis, spaCy (NLP) |
-| **Scale** | Multi-platform (web + mobile), 6-member engineering team |
-| **Performance** | Redis-backed caching for low-latency verification lookups |
-| **Security** | Registration-number cross-verification, LinkedIn/GitHub OAuth |
-| **Impact** | Built as SIH 2026 internal prelim submission (team PhoenixFu) |
-| **Repository** | *Private — SIH submission* |
+| **Stack** | Next.js (App Router), TypeScript, Tailwind CSS, Monaco Editor, MongoDB |
+| **Scale** | Multi-page app: problem library, duel rooms, live matchmaking |
+| **Performance** | Server-side code execution with per-test timing |
+| **Security** | JWT auth, bcrypt-hashed passwords, hidden tests never reach the client |
+| **Impact** | Live at insidcode.vercel.app, documented in a 52-day build-in-public series |
+| **Repository** | [github.com/p3xz/insidcode](https://github.com/p3xz/insidcode) |
 
-Led the engineering direction as team lead across a six-person team, aligning the problem-statement selection with the team's existing React/TypeScript strengths while architecting the verification layer using NLP-based matching and dual OAuth identity confirmation.
+Built end to end solo: duel matchmaking over WebSockets, server-authoritative test evaluation, and per-player question progress.
 
 </details>
 
 <details>
-<summary><b>🛡️ Infernified — Client-Side Password Security Analyzer</b></summary>
+<summary><b>Rideoxy — Privacy-First Motorcycle Ride Tracker</b></summary>
+
+<br/>
+
+An offline-ready motorcycle ride tracking and fuel telemetry app: GPS ride logging, lean-angle analysis, fuel and maintenance logs, and GPX export — with all data stored locally on the device.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Expo, React Native, MapLibre GL, SQLite |
+| **Scale** | Mobile app with background GPS tracking |
+| **Performance** | On-device SQLite store, offline vector maps |
+| **Security** | 100% local data — no mandatory cloud account |
+| **Impact** | Ride history, statistics, and GPX route export |
+| **Repository** | [github.com/p3xz/rideoxy](https://github.com/p3xz/rideoxy) |
+
+Built solo: background location tracking, Haversine-based distance calculation, and fuel-efficiency analytics.
+
+</details>
+
+<details>
+<summary><b>NamishOS — macOS Desktop Replica Portfolio</b></summary>
+
+<br/>
+
+A portfolio disguised as a macOS desktop: boot screen, menu bar, magnifying dock, draggable Finder windows, and an interactive terminal.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, TypeScript, Vite, Tailwind CSS |
+| **Scale** | Full desktop environment simulation in the browser |
+| **Performance** | Spring window animations, launch bounce, popover transitions |
+| **Impact** | Live at namish-os.vercel.app |
+| **Repository** | [github.com/p3xz/namish-os](https://github.com/p3xz/namish-os) |
+
+Shipped with macOS-style window management, a working terminal emulator, and Quick Look project write-ups.
+
+</details>
+
+<details>
+<summary><b>MINCRATYPE — Minecraft-Themed Typing Test</b></summary>
+
+<br/>
+
+A typing test with a Minecraft soul: blocky on-screen keyboard that slides up on first keystroke, key sync, clickable keys, and WPM/accuracy/consistency stats.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, TypeScript, Tailwind CSS |
+| **Scale** | Single-page typing application |
+| **Performance** | Real-time keystroke tracking and stat computation |
+| **Impact** | Live at mincratype.vercel.app |
+| **Repository** | [github.com/p3xz/mincratype](https://github.com/p3xz/mincratype) |
+
+Built solo: custom keyboard rendering, per-key timing, and slowest/most-missed key heatmaps.
+
+</details>
+
+<details>
+<summary><b>DESI VISION — Satirical Desi Object Detection Party Game</b></summary>
+
+<br/>
+
+A camera-based party game that detects everyday desi objects with a satirical twist: screen shake, particle bursts, and over-the-top commentary.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, TypeScript, TensorFlow.js |
+| **Scale** | Real-time browser object detection game |
+| **Performance** | In-browser ML inference, respects prefers-reduced-motion |
+| **Impact** | Live at desi-vision.vercel.app |
+| **Repository** | [github.com/p3xz/desi-vision](https://github.com/p3xz/desi-vision) |
+
+Built solo: TF.js model integration, game-feel effects, and accessibility-aware motion.
+
+</details>
+
+<details>
+<summary><b>Infernified — Client-Side Password Security Analyzer</b></summary>
 
 <br/>
 
@@ -106,49 +183,9 @@ A fully client-side password strength and security analysis tool, built as a cyb
 | **Performance** | Real-time in-browser analysis, no network round trips |
 | **Security** | 100% client-side processing — no password ever leaves the browser |
 | **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
+| **Repository** | [github.com/p3xz/infernified](https://github.com/p3xz/infernified) |
 
-Shipped as a full package rather than a demo: includes a dedicated privacy policy page, custom favicon and Open Graph assets generated via Python, and an instructor-facing technical notes document.
-
-</details>
-
-<details>
-<summary><b>🤖 KillCounterBot — Java Discord Bot</b></summary>
-
-<br/>
-
-A Discord bot built on the JDA framework for tracking in-game kill statistics, backed by a lightweight SQLite persistence layer.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Java, JDA, SQLite, Maven |
-| **Scale** | Single-server Discord bot, event-driven architecture |
-| **Performance** | Lightweight embedded SQLite store, low-overhead runtime |
-| **Security** | Local data persistence with no external data exposure |
-| **Impact** | Core setup and build pipeline complete; feature phase in progress |
-| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
-
-Set up the full Maven-based Java build pipeline from scratch, resolving toolchain issues along the way, with the bot's command and statistics-tracking layer under active development.
-
-</details>
-
-<details>
-<summary><b>💼 Personal Portfolio Website</b></summary>
-
-<br/>
-
-A dark, minimalist personal portfolio built in React and TypeScript with a custom animated background system.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript |
-| **Scale** | Single-page application with custom animation engine |
-| **Performance** | Tuned canvas-based FloatingLines background animation |
-| **Security** | Client-side contact form with input handling |
-| **Impact** | Live personal branding and project showcase |
-| **Repository** | [github.com/p3xz](https://github.com/p3xz) |
-
-Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned generative background, footer social integration, and a functional contact form UI.
+Shipped as a full package rather than a demo: includes a dedicated privacy policy page and an instructor-facing technical notes document.
 
 </details>
 
@@ -156,28 +193,16 @@ Designed around a dark, purple-accented minimalist aesthetic, with a hand-tuned 
 
 ## Experience
 
-**Team Lead — TrustLink (Smart India Hackathon 2026)**
+**Independent Developer — InsidCode & Rideoxy**
 `2026 — Present`
 
-Leading a six-member engineering team (PhoenixFu) building a verified alumni engagement platform for SIH 2026, problem statement SIH25017 — from architecture decisions through team coordination.
+Designing and shipping complete products solo, from architecture to deployment.
 
-- Directed problem-statement selection and technical strategy for the team
-- Architected the verification layer: registration-number cross-checks + LinkedIn/GitHub OAuth
-- Coordinated a multi-stack build across React, Flutter, Node.js, and PostgreSQL/Redis
-- Delegated and reviewed work across five teammates through the internal prelim cycle
+- Building InsidCode, a coding platform with live 1v1 duels, server-side test evaluation, and matchmaking
+- Building Rideoxy, a privacy-first offline motorcycle ride tracker with background GPS and on-device storage
+- Shipping supporting projects end to end: NamishOS, MINCRATYPE, DESI VISION
 
-`React` `Node.js` `PostgreSQL` `Team Leadership`
-
-**Independent Developer — Personal Projects**
-`Ongoing`
-
-Building and shipping complete solo projects end-to-end, from frontend to docs, outside of coursework.
-
-- Shipped Infernified, a client-side password security analyzer, with full supporting docs
-- Built a Java/Discord bot (KillCounterBot) on JDA with a Maven-based pipeline
-- Designed and built a personal portfolio site in React/TypeScript
-
-`React` `TypeScript` `Java` `JavaScript`
+`Next.js` `TypeScript` `React Native` `MongoDB` `SQLite`
 
 ---
 
@@ -185,8 +210,8 @@ Building and shipping complete solo projects end-to-end, from frontend to docs, 
 
 | Recognition | Details |
 |---|---|
-| Smart India Hackathon 2026 — Internal Prelims | Team lead, PhoenixFu — problem statement SIH25017 |
 | Academic Standing | BCA, Kristu Jayanti University, Bengaluru |
+| Build-in-Public | 52-day InsidCode series on X |
 
 ---
 
@@ -241,13 +266,11 @@ Credential ID: `FSP/2026/9/10411158`
 ```yaml
 current:
   learning:
-    - Cloud-native architecture patterns
+    - MERN stack fundamentals
     - Docker and containerized development workflows
   building:
-    - TrustLink — verified alumni engagement platform (SIH 2026)
-    - Personal portfolio and developer brand
-  exploring:
-    - WiFi CSI-based sensing and pose detection
+    - InsidCode — coding platform with live 1v1 duels
+    - Rideoxy — privacy-first ride tracking
   open_to:
     - Software Engineering Internships
     - Open-source contribution
