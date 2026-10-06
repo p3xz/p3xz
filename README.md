@@ -221,8 +221,7 @@ Credential ID: `FSP/2026/9/10411158`
 
 ---
 
-<!-- Contribution snake: re-enable after adding the Platane/snk workflow.
-     It generates the SVG on the `output` branch that the <img> below needs.
+<!-- Contribution snake: generated on the `output` branch by the Platane/snk workflow. -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/p3xz/p3xz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -230,7 +229,6 @@ Credential ID: `FSP/2026/9/10411158`
 </div>
 
 ---
--->
 
 ## Current Focus
 
