@@ -110,6 +110,10 @@ An offline-ready motorcycle ride tracking and fuel telemetry app: GPS ride loggi
 
 Built solo: background location tracking, Haversine-based distance calculation, and fuel-efficiency analytics.
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/p3xz/rideoxy/main/assets/icon.png" width="80" alt="Rideoxy logo" />
+
 </details>
 
 <details>
