@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Shipping+clean%2C+production-ready+code;Open+to+SWE+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Shipping+clean%2C+working+code;Open+to+SWE+internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@
 
 ## About Me
 
-I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building production-grade full-stack systems. My work spans **React/TypeScript front ends**, **Node.js backends**, and end-to-end product delivery — from verification pipelines to developer tooling.
+I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building complete full-stack systems. My work spans **React/TypeScript front ends**, **Node.js backends**, and end-to-end product delivery — from verification pipelines to developer tooling.
 
 I approach engineering with a product mindset: shipping complete, end-to-end experiences rather than isolated components — covering UI, backend architecture, security, and documentation in the same breath. I favor rapid, iterative prototyping paired with a solid grounding in core web fundamentals, which lets me move fast without losing rigor.
 
@@ -58,15 +58,15 @@ I approach engineering with a product mindset: shipping complete, end-to-end exp
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Flutter](https://skillicons.dev/icons?i=flutter)
+![React](https://skillicons.dev/icons?i=react) ![React Native](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis) ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 **Cloud, DevOps & Tooling**
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Maven](https://skillicons.dev/icons?i=maven)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
@@ -151,7 +151,7 @@ Built solo: custom keyboard rendering, per-key timing, and slowest/most-missed k
 </details>
 
 <details>
-<summary><b>Infernified — Client-Side Password Security Analyzer</b></summary>
+<summary><b>Infernicated — Client-Side Password Security Analyzer</b></summary>
 
 <br/>
 
@@ -164,7 +164,7 @@ A fully client-side password strength and security analysis tool, built as a cyb
 | **Performance** | Real-time in-browser analysis, no network round trips |
 | **Security** | 100% client-side processing — no password ever leaves the browser |
 | **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/p3xz/infernified](https://github.com/p3xz/infernified) |
+| **Repository** | [github.com/p3xz/Infernicated](https://github.com/p3xz/Infernicated) |
 
 Shipped as a full package rather than a demo: includes a dedicated privacy policy page and an instructor-facing technical notes document.
 
