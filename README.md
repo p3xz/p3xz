@@ -86,7 +86,7 @@ A full coding practice platform with live 1v1 coding duels: two players solve th
 | **Performance** | Server-side code execution with per-test timing |
 | **Security** | JWT auth, bcrypt-hashed passwords, hidden tests never reach the client |
 | **Impact** | Live at insidcode.vercel.app, documented in a 52-day build-in-public series |
-| **Repository** | [github.com/p3xz/insidcode](https://github.com/p3xz/insidcode) |
+| **Live Site** | [insidcode.vercel.app](https://insidcode.vercel.app) |
 
 Built end to end solo: duel matchmaking over WebSockets, server-authoritative test evaluation, and per-player question progress.
 
