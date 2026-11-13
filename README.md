@@ -28,6 +28,20 @@ I build full-stack products end to end: UI, backend, auth, and deployment. Open 
 - Mobile: React Native, Expo
 - Tools: Git, GitHub, Vercel, Docker
 
+## Most used languages
+
+By code size across my own public repos, forks excluded, checked 14 November 2026.
+
+- TypeScript, about 86% - InsidCode, Rideoxy, NamishOS, DESI VISION, MINCRATYPE, SaveWise, GymSync iOS
+- JavaScript, about 5% - GymSync, cgpa-calculator, Infernicated
+- HTML, about 4% - Minimum Cut-Off to Date Me form, Infernicated
+- CSS, about 3% - NamishOS, MINCRATYPE, GymSync
+- Python, under 1% - local-chat-bot, a local Ollama chat bot with LoRA fine-tuning
+- Java, under 1% - github-stats-bot
+- C, under 1% - c-practice
+
+Activity: most of my recent work is TypeScript, one genuine commit per day on InsidCode, Rideoxy, NamishOS, DESI VISION and MINCRATYPE.
+
 ## Credentials
 
 - Digital Engineering, FutureSkills Prime (Nasscom), Gold, 80/100
