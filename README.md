@@ -1,281 +1,159 @@
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6a0dad&height=250&section=header&text=Namish%20Yadav&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Shipping+clean%2C+working+code;Open+to+SWE+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+systems;Engineering+products+that+ship;Creator+of+InsidCode;Open+to+SWE+internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Student](https://img.shields.io/badge/BCA-Kristu%20Jayanti%20University-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/BCA-Kristu%20Jayanti%20University-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-A78BFA?style=flat-square&logo=statuspage&logoColor=white)
 
-<br/>
-
-<a href="https://namishhh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/namish-yadav-639769408" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:namishyadavv@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/p3xz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://namishhh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/namish-yadav-639769408"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/NamishYadavv"><img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://leetcode.com/u/namishyadav/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode" /></a>
+<a href="mailto:namishyadavv@gmail.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=p3xz&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/p3xz?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/p3xz?style=flat-square&color=A78BFA&label=STARS&logo=github)
+<img src="https://komarev.com/ghpvc/?username=p3xz&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/p3xz?style=flat-square&color=6A0DAD&label=FOLLOWERS&logo=github" alt="followers" />
 
 </div>
 
----
-
-## About Me
-
-I'm a Computer Applications undergraduate at Kristu Jayanti University, Bengaluru, focused on building complete full-stack systems. My work spans **React/TypeScript front ends**, **Node.js backends**, and end-to-end product delivery — from verification pipelines to developer tooling.
-
-I approach engineering with a product mindset: shipping complete, end-to-end experiences rather than isolated components — covering UI, backend architecture, security, and documentation in the same breath. I favor rapid, iterative prototyping paired with a solid grounding in core web fundamentals, which lets me move fast without losing rigor.
-
-**Currently open to:**
-
-- Software Engineering Internships (Full Stack / Frontend)
-- Open-source collaboration
-- Hackathons and applied engineering projects
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C](https://skillicons.dev/icons?i=c)
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react) ![React Native](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Backend & Databases**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-**Cloud, DevOps & Tooling**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>InsidCode — Coding Platform with Live 1v1 Duels</b></summary>
-
 <br/>
 
-A full coding practice platform with live 1v1 coding duels: two players solve the same problem against the clock while the server runs hidden tests and scores the round.
+<!-- ============ TERMINAL ============ -->
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Next.js (App Router), TypeScript, Tailwind CSS, Monaco Editor, MongoDB |
-| **Scale** | Multi-page app: problem library, duel rooms, live matchmaking |
-| **Performance** | Server-side code execution with per-test timing |
-| **Security** | JWT auth, bcrypt-hashed passwords, hidden tests never reach the client |
-| **Impact** | Live at insidcode.vercel.app, documented in a 52-day build-in-public series |
-| **Live Site** | [insidcode.vercel.app](https://insidcode.vercel.app) |
+```bash
+p3xz@github:~$ whoami
+> Namish Yadav — full-stack engineer, solo product builder
 
-Built end to end solo: duel matchmaking over WebSockets, server-authoritative test evaluation, and per-player question progress.
+p3xz@github:~$ cat about.txt
+> React/TypeScript front ends, Node.js backends, end-to-end delivery.
+> UI, backend architecture, security and docs, all in the same breath.
 
-</details>
-
-<details>
-<summary><b>Rideoxy — Privacy-First Motorcycle Ride Tracker</b></summary>
-
-<br/>
-
-An offline-ready motorcycle ride tracking and fuel telemetry app: GPS ride logging, lean-angle analysis, fuel and maintenance logs, and GPX export — with all data stored locally on the device.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Expo, React Native, MapLibre GL, SQLite |
-| **Scale** | Mobile app with background GPS tracking |
-| **Performance** | On-device SQLite store, offline vector maps |
-| **Security** | 100% local data — no mandatory cloud account |
-| **Impact** | Ride history, statistics, and GPX route export |
-| **Repository** | [github.com/p3xz/rideoxy](https://github.com/p3xz/rideoxy) |
-
-Built solo: background location tracking, Haversine-based distance calculation, and fuel-efficiency analytics.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/p3xz/rideoxy/main/assets/icon.png" width="80" alt="Rideoxy logo" />
-
-</details>
-
-<details>
-<summary><b>NamishOS — macOS Desktop Replica Portfolio</b></summary>
-
-<br/>
-
-A portfolio disguised as a macOS desktop: boot screen, menu bar, magnifying dock, draggable Finder windows, and an interactive terminal.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript, Vite, Tailwind CSS |
-| **Scale** | Full desktop environment simulation in the browser |
-| **Performance** | Spring window animations, launch bounce, popover transitions |
-| **Impact** | Live at namish-os.vercel.app |
-| **Repository** | [github.com/p3xz/namish-os](https://github.com/p3xz/namish-os) |
-
-Shipped with macOS-style window management, a working terminal emulator, and Quick Look project write-ups.
-
-</details>
-
-<details>
-<summary><b>MINCRATYPE — Minecraft-Themed Typing Test</b></summary>
-
-<br/>
-
-A typing test with a Minecraft soul: blocky on-screen keyboard that slides up on first keystroke, key sync, clickable keys, and WPM/accuracy/consistency stats.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript, Tailwind CSS |
-| **Scale** | Single-page typing application |
-| **Performance** | Real-time keystroke tracking and stat computation |
-| **Impact** | Live at mincratype.vercel.app |
-| **Repository** | [github.com/p3xz/mincratype](https://github.com/p3xz/mincratype) |
-
-Built solo: custom keyboard rendering, per-key timing, and slowest/most-missed key heatmaps.
-
-</details>
-
-<details>
-<summary><b>Infernicated — Client-Side Password Security Analyzer</b></summary>
-
-<br/>
-
-A fully client-side password strength and security analysis tool, built as a cybersecurity portfolio project with an emphasis on zero server-side data handling.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | JavaScript, HTML5, CSS3 |
-| **Scale** | Single-page client-only application |
-| **Performance** | Real-time in-browser analysis, no network round trips |
-| **Security** | 100% client-side processing — no password ever leaves the browser |
-| **Impact** | Complete end-to-end delivery: app, privacy policy, and technical docs |
-| **Repository** | [github.com/p3xz/Infernicated](https://github.com/p3xz/Infernicated) |
-
-Shipped as a full package rather than a demo: includes a dedicated privacy policy page and an instructor-facing technical notes document.
-
-</details>
-
----
-
-## Experience
-
-**Independent Developer — InsidCode & Rideoxy**
-`2026 — Present`
-
-Designing and shipping complete products solo, from architecture to deployment.
-
-- Building InsidCode, a coding platform with live 1v1 duels, server-side test evaluation, and matchmaking
-- Building Rideoxy, a privacy-first offline motorcycle ride tracker with background GPS and on-device storage
-- Shipping supporting projects end to end: NamishOS, MINCRATYPE
-
-`Next.js` `TypeScript` `React Native` `MongoDB` `SQLite`
-
----
-
-## Achievements
-
-| Recognition | Details |
-|---|---|
-| Academic Standing | BCA, Kristu Jayanti University, Bengaluru |
-| Build-in-Public | 52-day InsidCode series on X |
-
----
-
-## Certifications
-
-**Digital Engineering — FutureSkills Prime (Nasscom)**
-`Sep 2026`
-
-Gold category, 80/100, with a perfect 19/19 on one of five modules. Covers edge computing, Internet of Things, artificial intelligence, machine learning, cybersecurity, and big data.
-
-Credential ID: `FSP/2026/9/10411158`
-
-`Edge Computing` `IoT` `Artificial Intelligence` `Machine Learning` `Cybersecurity` `Big Data`
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/namishyadav/">
-  <img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode" />
-</a>
-
-</div>
-
----
-
-<!-- Contribution snake: generated on the `output` branch by the Platane/snk workflow. -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/p3xz/p3xz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-current:
+p3xz@github:~$ cat now.yml
+  building:
+    - InsidCode  # coding platform with live 1v1 duels
+    - Rideoxy    # privacy-first ride tracking
   learning:
     - MERN stack fundamentals
-    - Docker and containerized development workflows
-  building:
-    - InsidCode — coding platform with live 1v1 duels
-    - Rideoxy — privacy-first ride tracking
+    - Docker & containerized workflows
   open_to:
-    - Software Engineering Internships
-    - Open-source contribution
+    - SWE internships (Full Stack / Frontend)
+    - Open-source collaboration
+    - Hackathons
+
+p3xz@github:~$ echo $MOTTO
+> "Build the thing completely, or don't build it at all."
 ```
 
----
+<br/>
 
-## Connect
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<a href="mailto:namishyadavv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,c&theme=dark" alt="languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&theme=dark" alt="frontend" />
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,sqlite,mongodb&theme=dark" alt="backend" />
+
+**Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,maven,vercel&theme=dark" alt="tooling" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/p3xz/insidcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p3xz&repo=insidcode&bg_color=0f0c29&title_color=A78BFA&text_color=E0D7FF&icon_color=8A2BE2&border_color=302b63&border_radius=10" alt="insidcode" />
 </a>
-<a href="https://linkedin.com/in/namish-yadav-639769408">
-  <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://github.com/p3xz/rideoxy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p3xz&repo=rideoxy&bg_color=0f0c29&title_color=A78BFA&text_color=E0D7FF&icon_color=8A2BE2&border_color=302b63&border_radius=10" alt="rideoxy" />
 </a>
-<a href="https://github.com/p3xz">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<a href="https://github.com/p3xz/namish-os">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p3xz&repo=namish-os&bg_color=0f0c29&title_color=A78BFA&text_color=E0D7FF&icon_color=8A2BE2&border_color=302b63&border_radius=10" alt="namish-os" />
 </a>
-<a href="https://namishhh.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/p3xz/mincratype">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p3xz&repo=mincratype&bg_color=0f0c29&title_color=A78BFA&text_color=E0D7FF&icon_color=8A2BE2&border_color=302b63&border_radius=10" alt="mincratype" />
+</a>
+
+<a href="https://github.com/p3xz/Infernicated">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p3xz&repo=Infernicated&bg_color=0f0c29&title_color=A78BFA&text_color=E0D7FF&icon_color=8A2BE2&border_color=302b63&border_radius=10" alt="infernicated" />
 </a>
 
 </div>
 
----
+<details>
+<summary><b>📂 Project details</b></summary>
+<br/>
 
+| Project | What it is | Stack | Live |
+| :-- | :-- | :-- | :-- |
+| **InsidCode** | Coding platform with live 1v1 duels, hidden server-side tests, JWT auth | Next.js, TypeScript, Tailwind, Monaco, MongoDB | [insidcode.vercel.app](https://insidcode.vercel.app) |
+| **Rideoxy** | Offline-first motorcycle ride tracker: GPS, fuel logs, GPX export, 100% local data | Expo, React Native, MapLibre GL, SQLite | [repo](https://github.com/p3xz/rideoxy) |
+| **NamishOS** | Portfolio disguised as a macOS desktop with dock, windows and terminal | React, TypeScript, Vite, Tailwind | [namish-os.vercel.app](https://namish-os.vercel.app) |
+| **MINCRATYPE** | Minecraft-themed typing test with WPM stats and key heatmaps | React, TypeScript, Tailwind | [mincratype.vercel.app](https://mincratype.vercel.app) |
+| **Infernicated** | Client-side password analyzer. No password ever leaves the browser | JavaScript, HTML5, CSS3 | [repo](https://github.com/p3xz/Infernicated) |
+
+</details>
+
+<br/>
+
+## 📊 Metrics
+
+<!-- Generated daily by lowlighter/metrics via .github/workflows/metrics.yml -->
 <div align="center">
 
-<em>"Build the thing completely, or don't build it at all."</em>
+<img src="./metrics-overview.svg" alt="GitHub overview" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="./metrics-isocalendar.svg" alt="Isometric commit calendar" width="100%" />
+
+<img src="./metrics-languages.svg" alt="Languages" width="49%" />
+<img src="./metrics-achievements.svg" alt="Achievements" width="49%" />
+
+<img src="./metrics-leetcode.svg" alt="LeetCode" width="100%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/p3xz/p3xz/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br/>
+
+## 🏅 Credentials
+
+- **Digital Engineering — FutureSkills Prime (Nasscom)**, Gold, 80/100. Covers edge computing, IoT, AI/ML, cybersecurity and big data.
+- **Build-in-Public:** 52-day InsidCode series on [X](https://x.com/NamishYadavv)
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+
+<i>"Build the thing completely, or don't build it at all."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
