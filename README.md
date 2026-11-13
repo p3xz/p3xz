@@ -40,7 +40,6 @@ By code size across my own public repos, forks excluded, checked 14 November 202
 - Java, under 1% - github-stats-bot
 - C, under 1% - c-practice
 
-Activity: most of my recent work is TypeScript, one genuine commit per day on InsidCode, Rideoxy, NamishOS, DESI VISION and MINCRATYPE.
 
 ## Credentials
 
