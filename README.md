@@ -1,6 +1,6 @@
 # Namish Yadav
 
-BCA student at Kristu Jayanti University, Bengaluru. Aspiring Full-Stack Developer.
+At Bengaluru. Aspiring Full-Stack Developer.
 
 I build full-stack products end to end: UI, backend, auth, and deployment. Open to SWE internships (Full Stack / Frontend) and open-source collaboration.
 
