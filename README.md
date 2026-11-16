@@ -6,10 +6,6 @@ I build full-stack products end to end: UI, backend, auth, and deployment. Open 
 
 ## Currently
 
-- BCA Semester 1 at Kristu Jayanti University
-- End-semester exams, November to December 2026
-- Building InsidCode, with a 52-day build-in-public series on X
-- Shipping one genuine GitHub commit per day on my main projects
 
 ## What I am building
 
