@@ -47,6 +47,6 @@ By code size across my own public repos, forks excluded, checked 14 November 202
 - GitHub: https://github.com/p3xz
 - X: https://x.com/NamishYadavv
 - Instagram: https://instagram.com/nam7sh
-- LinkedIn: https://linkedin.com/in/namish-yadav-639769408
+- LinkedIn: https://linkedin.com/in/namishyadav
 - LeetCode: https://leetcode.com/u/namishyadav/
 - Email: namishyadavv@gmail.com
